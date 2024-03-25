@@ -1,0 +1,41 @@
+1.cd../..
+2.
+x = 2
+y = 4
+z = 8
+x = y
+x = z
+y = z
+print("x-", x)
+print("y-", y)
+print("z-", z)
+
+3.
+salary = 2400
+months = 15
+exchange_rate = 84
+total_income_soms = salary_usd *months*exchange_rate
+print('Заработок работника составил в сомах')
+
+4.
+a = -8
+print(-a) # 5
+5.y = 3
+square (y**2)
+remainder (square % 5)
+print(remainder)
+6.
+7.
+a=3
+b=4
+c=(a**2+b**2)
+print(c)
+8.
+inp1 = Input(1)
+inp2 = Input(2)
+inp3 = Input(3)
+result(inp1*inp2*inp3)
+print(result)
+
+
+
